@@ -1,8 +1,11 @@
  ## Welcome to my github!
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-<!-- 
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=luccaccarmelin)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
 ###
 **luccaccarmelin/luccaccarmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
