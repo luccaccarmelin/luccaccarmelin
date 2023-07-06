@@ -1,6 +1,7 @@
  ## Welcome to my github!
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+![Gif](![image](https://github.com/luccaccarmelin/luccaccarmelin/assets/81098582/5b69493b-d7d9-44a3-b022-b9385a46d382)
+)
 
 
 
