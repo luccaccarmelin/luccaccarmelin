@@ -1,23 +1,8 @@
- ## Welcome to my github!
+ ## Hi! My name is Lucca and this is my github :3
 
-![Gif](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
+![Space_trip](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
 )
 
-
+<!--if you want, you can test this other gif in your acount too: ![mario coding](https://i.imgur.com/1ZvVkDc.gif)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luccaccarmelin)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-###
-**luccaccarmelin/luccaccarmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- --->
