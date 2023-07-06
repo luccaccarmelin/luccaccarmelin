@@ -1,4 +1,4 @@
- ## Hi! My name is Lucca and this is my github :3
+ ## Hi! My name is Lucca and this is my profile :3
 
 ![Space_trip](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
 )
